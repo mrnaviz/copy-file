@@ -19,10 +19,10 @@ Create a copy.txt file using write mode
 Copy the content of text1.txt file to copy.txt using write function
 
 ## PROGRAM:
-```jjj
+```
 Program for copying the contents from one file to another file
-Developed by: Alfred A B
-Register Number: 212222110002
+Developed by: NAVEEN KUMAR.B
+Register Number: 212222230091
 
 with open("text1.txt",'r') as fp:
     msg1=fp.read()
